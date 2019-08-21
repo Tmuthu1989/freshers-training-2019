@@ -1,3 +1,5 @@
+require 'rubygems'
+require 'pry'
 puts "Enter num of students"
 n = gets.chomp.to_i
 s = []
@@ -21,4 +23,3 @@ n.times do |n1|
 	puts "#{(n1+1)}---#{sm}"
   s1[n1] = (n1+1) * sm
 end  
-
