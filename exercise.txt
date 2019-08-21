@@ -1,0 +1,43 @@
+Output:
+Enter the number of Students:
+_____
+Enter the rollnumber for S1:
+
+---
+Enter the Name of S1:
+
+------
+Enter The Subject 1
+
+------
+Enter The mark for Subject 1
+
+------
+Enter The Subject 2
+
+------
+Enter The mark for Subject 2
+
+------
+Enter The Subject 3
+
+------
+Enter The mark for Subject 3
+
+------
+
+-----------------------------------------------------
+Please enter your roll number to get result:
+
+--------
+Hello :name Please Refer The result bellow
+Name: _______
+Roll Number: _______
+Marks:
+
+:subject1 : :mark1
+:subject2 : :mark2
+:subject3 : :mark3
+Total: :total
+Avg.Mark: :avg
+Result: Pass or Fail
